@@ -30,7 +30,7 @@ const Index = () => (
       <p>
         In 2020 I co-founded <Link to="https:diagonal.works/"> Diagonal</Link>, a civic tech data analytics company.{' '}
         We built some tools along the way:
-        <li><Link to="https://github.com/diagonalworks/diagonal-b6"> bedrock (b6)</Link> - a compact represenetation of geospatial data and analysis engine.</li>
+        <li><Link to="https://github.com/diagonalworks/diagonal-b6"> bedrock (b6)</Link> - a compact representation of geospatial data and analysis engine.</li>
         <li><Link to="https://github.com/diagonalworks/diagonal-pets"> Privacy enhancing technology</Link> to predict the risk of virus-infection, based on the aggregate number of visitors to places.</li>
         <li><Link to="https://github.com/diagonalworks/ucl-population-health"> Population health modelling</Link> to understand health care supply/demand scenarios using a synthetic UK population.</li>
       </p>
